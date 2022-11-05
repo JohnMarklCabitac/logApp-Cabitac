@@ -33,5 +33,6 @@
 ![authors profile](visual/Jm_profile.jpg)
 
 ## **JOHN ISAAC DELGADO**
-![authors profile](visual/Delgado, John Isaac.jpg)
+![authors profile](visual/Isaac_profile.jpg)
+
 
