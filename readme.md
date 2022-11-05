@@ -29,10 +29,9 @@
 ---
 ## *Author* :boy:
 
-## **JOHN MARK L. CABITAC** <br>
-
-<img src= "./visual/Jm_profile.jpg" style = "border-radius: 100%" >
+## **JOHN MARK L. CABITAC** 
+![authors profile](./visual/Jm_profile.jpg)
 
 ## **JOHN ISAAC DELGADO**
+![authors profile](./visual/Delgado, John Isaac.jpg)
 
-<img src= "./visual/Delgado, John Isaac.jpg" style = "border-radius: 100%" >
