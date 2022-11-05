@@ -30,8 +30,8 @@
 ## *Author* :boy:
 
 ## **JOHN MARK L. CABITAC** 
-![authors profile](./visual/Jm_profile.jpg)
+![authors profile](visual/Jm_profile.jpg)
 
 ## **JOHN ISAAC DELGADO**
-![authors profile](./visual/Delgado, John Isaac.jpg)
+![authors profile](visual/Delgado, John Isaac.jpg)
 
